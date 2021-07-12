@@ -1,0 +1,593 @@
+{
+    "tags": [
+        "入門",
+        "家庭",
+        "陷害",
+        "歡樂",
+        "心機",
+        "吹牛",
+        "陣營",
+        "派對",
+        "輕度策略",
+        "中度策略",
+        "重度策略",
+        "燒腦",
+        "卡牌",
+        "運氣",
+        "美術滿分",
+        "成套蒐集",
+        "板塊拼放",
+        "輪抽",
+        "骰子",
+        "工人放置",
+        "反應",
+        "合作",
+        "兒童",
+        "樂齡",
+        "美術加分",
+        "快速",
+        "抽象",
+        "計算",
+        "字詞聯想",
+        "解謎",
+        "道具",
+        "畫畫",
+        "規劃建造",
+        "平衡"
+    ],
+    "list": [
+        {
+            "Id": 0,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": ""
+                },
+                {
+                    "language": "En",
+                    "name": ""
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [],
+            "artist": [],
+            "publisherTW": "",
+            "publishYear": 0,
+            "ages": 0,
+            "playingMins": 0,
+            "minPlayers": 0,
+            "maxPlayers": 0,
+            "bestPlayers": [],
+            "tags": [],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 0,
+            "playStore": [
+                {
+                    "storeName": "",
+                    "storeURL": "",
+                    "remark": ""
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "",
+                    "siteURL": "",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "",
+                    "siteURL": "",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "",
+            "bggWeight": 0,
+            "linkGameId": ""
+        },
+        {
+            "Id": 1,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "璀璨寶石"
+                },
+                {
+                    "language": "En",
+                    "name": "Splendor"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Marc André"
+            ],
+            "artist": [
+                "Pascal Quidault",
+                "Abbas Amirabadi",
+                "Mahmoud Arasteh Nasab"
+            ],
+            "publisherTW": "GoKids 玩樂小子",
+            "publishYear": "2014",
+            "ages": 10,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": 3,
+            "tags": [
+                "輕度策略",
+                "家庭",
+                "入門"
+            ],
+            "cardSleeves": {
+                "cardNums": 90,
+                "fitSize": "64mm×89mm",
+                "normalSize": "65mm×90mm"
+            },
+            "price": 1450,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
+                    "remark": "台北市捷運松江南京站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "蝦皮(貝克街)",
+                    "siteURL": "https://shopee.tw/%E3%80%90%E8%B2%9D%E5%85%8B%E8%A1%97%E6%A1%8C%E9%81%8A%E3%80%91%E7%92%80%E7%92%A8%E5%AF%B6%E7%9F%B3-Splendor-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%AD%A3%E7%89%88-%E5%8F%A6%E6%9C%89%E6%93%B4%E5%85%85%E5%8F%AF%E5%8A%A0%E8%B3%BC%E5%96%94-i.147648678.6705729963",
+                    "remark": "目前缺貨"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "逸馬",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/322477014",
+                    "remark": "瘋桌遊台中店網誌"
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/148228/splendor",
+            "bggWeight": 1.80,
+            "linkGameId": ""
+        },
+        {
+            "Id": 2,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "矮人礦坑"
+                },
+                {
+                    "language": "En",
+                    "name": "Saboteur"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Fréderic Moyersoen"
+            ],
+            "artist": [
+                "Andrea Boekhoff",
+                "Fréderic Moyersoen"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": "2004",
+            "ages": 8,
+            "playingMins": 30,
+            "minPlayers": 3,
+            "maxPlayers": 10,
+            "bestPlayers": [
+                7,
+                8
+            ],
+            "tags": [
+                "歡樂",
+                "陣營",
+                "入門",
+                "吹牛",
+                "心機",
+                "板塊拼放",
+                "運氣"
+            ],
+            "cardSleeves": {
+                "cardNums": 110,
+                "fitSize": "56mm×87mm",
+                "normalSize": "56mm×87mm"
+            },
+            "price": 690,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
+                    "remark": "台北市捷運松江南京站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "PChome",
+                    "siteURL": "https://24h.pchome.com.tw/prod/DEAS7V-A80076139",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "冒險安迪",
+                    "siteURL": "https://andyventure.com/boardgame-saboteur/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/9220/saboteur",
+            "bggWeight": 1.33,
+            "linkGameId": ""
+        },
+        {
+            "Id": 3,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "閃靈快手"
+                },
+                {
+                    "language": "En",
+                    "name": "Ghost Blitz"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Jacques Zeimet"
+            ],
+            "artist": [
+                "Doris Matthäus",
+                "Gabriela Silveira"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": "2010",
+            "ages": 8,
+            "playingMins": 20,
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                4,
+                5
+            ],
+            "tags": [
+                "歡樂",
+                "兒童",
+                "入門",
+                "反應",
+                "快速",
+                "道具"
+            ],
+            "cardSleeves": {
+                "cardNums": 60,
+                "fitSize": "60mm×92mm",
+                "normalSize": "60mm×92mm"
+            },
+            "price": 690,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
+                    "remark": "台北市捷運松江南京站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/%e9%96%83%e9%9d%88%e5%bf%ab%e6%89%8b-geistesblitz%ef%bc%8d%e4%b8%ad%e6%96%87%e7%89%88/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "跟著Jeff一起成長",
+                    "siteURL": "https://keepgrowup.com.tw/geistesblitz/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/83195/ghost-blitz",
+            "bggWeight": 1.15,
+            "linkGameId": ""
+        },
+        {
+            "Id": 4,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "情書"
+                },
+                {
+                    "language": "En",
+                    "name": "Love Letter"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Seiji Kanai"
+            ],
+            "artist": [
+                "Kali Fitzgerald",
+                "Andrew Hepworth",
+                "Jeff Himmelman",
+                "John Kovalic",
+                "Nina Matsumoto",
+                "Robb Miller",
+                "Ken Niimura",
+                "Noboru Sugiura",
+                "Yating Sun"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": "2012",
+            "ages": 10,
+            "playingMins": 20,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": 4,
+            "tags": [
+                "歡樂",
+                "心機",
+                "卡牌",
+                "入門",
+                "快速",
+                "計算"
+            ],
+            "cardSleeves": {
+                "cardNums": 20,
+                "fitSize": "64mm×89mm",
+                "normalSize": "65mm×90mm"
+            },
+            "price": 390,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
+                    "remark": "台北市捷運松江南京站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "樂天(龐奇)",
+                    "siteURL": "https://www.rakuten.com.tw/shop/punch29/product/100468607459/?scid=rafp-&pr=9b8bc862e358ac0d&ts=1625561000081&aff_click_id=2d0cf95e-4b78-4628-a8c3-c806a8781762&cs=41600068702bf897a5ae60892a96cb9c",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "冒險安迪",
+                    "siteURL": "https://andyventure.com/boardgame-love-letter/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/129622/love-letter",
+            "bggWeight": 1.19,
+            "linkGameId": ""
+        },
+        {
+            "Id": 5,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "驚爆倫敦"
+                },
+                {
+                    "language": "En",
+                    "name": "Timebomb"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "佐藤 雄介 (Yusuke Sato)"
+            ],
+            "artist": [
+                "326",
+                "David Arenas",
+                "Biboun, Paco Dana"
+            ],
+            "publisherTW": "GoKids 玩樂小子",
+            "publishYear": 2016,
+            "ages": 10,
+            "playingMins": 30,
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                6,
+                7,
+                8
+            ],
+            "tags": [
+                "吹牛",
+                "心機",
+                "入門",
+                "陣營",
+                "陷害"
+            ],
+            "cardSleeves": {
+                "cardNums": 49,
+                "fitSize": "61mm×112mm",
+                "normalSize": "61mm×112mm"
+            },
+            "price": 590,
+            "playStore": [
+                {
+                    "storeName": "",
+                    "storeURL": "",
+                    "remark": ""
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "",
+                    "siteURL": "",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/462801527",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/236217/timebomb",
+            "bggWeight": 1.07,
+            "linkGameId": ""
+        },
+        {
+            "Id": 6,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "寶石陣"
+                },
+                {
+                    "language": "En",
+                    "name": "Gemblo"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Justin Oh"
+            ],
+            "artist": [],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2003,
+            "ages": 6,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "bestPlayers": [
+                4,
+                6
+            ],
+            "tags": [
+                "入門",
+                "兒童",
+                "樂齡",
+                "心機",
+                "快速",
+                "抽象",
+                "板塊拼放",
+                "陷害"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 890,
+            "playStore": [
+                {
+                    "storeName": "",
+                    "storeURL": "",
+                    "remark": ""
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "",
+                    "siteURL": "",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "",
+                    "siteURL": "",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/19427/gemblo/credits",
+            "bggWeight": 1.89,
+            "linkGameId": ""
+        },
+        {
+            "Id": 7,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "德國心臟病"
+                },
+                {
+                    "language": "En",
+                    "name": "Halli Galli"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Haim Shafir"
+            ],
+            "artist": [
+                "Oliver Freudenreich",
+                "Barbara Spelger"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 1990,
+            "ages": 6,
+            "playingMins": 10,
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "bestPlayers": [
+                4,
+                5
+            ],
+            "tags": [
+                "入門",
+                "兒童",
+                "反應",
+                "快速",
+                "計算",
+                "歡樂"
+            ],
+            "cardSleeves": {
+                "cardNums": 56,
+                "fitSize": "60mm×90mm",
+                "normalSize": "60mm×90mm"
+            },
+            "price": 790,
+            "playStore": [
+                {
+                    "storeName": "",
+                    "storeURL": "",
+                    "remark": ""
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "",
+                    "siteURL": "",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "逸馬",
+                    "siteURL": "https://phantasia0021.pixnet.net/blog/post/340111483",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/2944/halli-galli",
+            "bggWeight": 1.02,
+            "linkGameId": ""
+        }
+    ]
+}
