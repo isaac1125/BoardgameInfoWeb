@@ -8,7 +8,8 @@ request.onload = function () {
     listRender(BoardgameInfo);
 }
 
-let list = document.querySelector('.list');
+const list = document.querySelector('.list');
+const sleeves = document.querySelector('.sleeves');
 
 function listRender(jsonObj) {
     let boardgame = jsonObj;
@@ -24,36 +25,81 @@ const search = document.querySelector('.search');
 
 list.addEventListener('change', function (e) {
     let select = e.target.value;
-    console.log("click");
     request.open('GET', requestURL);
     request.responseType = 'json';
     request.send();
     request.onload = function () {
         let boardgameInfo = request.response;
-        console.log("onload?")
         for (i = 1; i < boardgameInfo.list.length; i++) {
             let name = boardgameInfo.list[i].boardgameName[0].name;
             if (name == select) {
-                console.log("bingo");
                 print(boardgameInfo);
             }
         }
     }
 })
 function print(boardgameInfo) {
+    let boardgame = boardgameInfo.list[i];
 
-    console.log(i);
 
-    document.querySelector('h1').textContent = boardgameInfo.list[i].boardgameName[0].name;
-    document.querySelector('h2').textContent = boardgameInfo.list[i].boardgameName[1].name;
+
+
+
+    console.log(boardgame);
+
+    document.querySelector('.heading__primary').textContent = boardgame.boardgameName[0].name;
+    document.querySelector('.heading__sub').textContent = boardgame.boardgameName[1].name;
+
+
 
     let tagsStr = "";
-    boardgameInfo.list[i].tags.forEach(function (item) {
+    boardgame.tags.forEach(function (item) {
         tagsStr += `<li>${item}</li>`
     });
     document.querySelector('.tags').innerHTML = tagsStr;
 
-    let maxPlayers = boardgameInfo.list[i].maxPlayers;
-    let minPlayers = boardgameInfo.list[i].minPlayers;
-    document.querySelector('.playerNum').innerHTML = `人數：${minPlayers}~${maxPlayers}`;
+    document.querySelector('.playerNum').innerHTML = `人數：${boardgame.minPlayers}~${boardgame.maxPlayers}`;
+    document.querySelector('.price').textContent = `售價：${boardgame.price}元`;
+    document.querySelector('.weight').innerHTML = `<p>難度：${boardgame.bggWeight}/5 (參考<a target="_blank" href="${boardgame.bggSite}">BoardGameGeek</a>)</p>`;
+
+
+    if (boardgame.cardSleeves.cardNums == 0) {
+        sleeves.textContent = `不須牌套`;
+        return;
+    }
+    else if (boardgame.cardSleeves.normalSize == boardgame.cardSleeves.fitSize) {
+        sleeves.textContent = `牌套尺寸：${boardgame.cardSleeves.normalSize}(${boardgame.cardSleeves.cardNums}張)`;
+    } else {
+        sleeves.textContent = `牌套尺寸：${boardgame.cardSleeves.normalSize} 貼合尺寸：${boardgame.cardSleeves.fitSize}(${boardgame.cardSleeves.cardNums}張)`;
+    }
+
+    document.querySelector('.publisher').textContent = `台灣代理商：${boardgame.publisherTW}`;
+    document.querySelector('.publishYear').textContent = `出版年份：${boardgame.publishYear}`;
+    let designersStr = "";
+    boardgame.designer.forEach(function (item) {
+        designersStr += `<li>${item}</li>`;
+    })
+    document.querySelector('.designer').innerHTML = `作者：${designersStr}`;
+    let artistsStr = "";
+    boardgame.artist.forEach(function (item) {
+        artistsStr += `<li>${item}</li>`;
+    })
+    document.querySelector('.artist').innerHTML = `美術：${artistsStr}`;
+
+    let salesStr = "";
+    boardgame.shopSite.forEach(function (item) {
+        salesStr += `<a target="_blank" href="${item.siteURL}">${item.siteName}</a> `;
+    })
+    document.querySelector('.saleSite').innerHTML = `購買連結：${salesStr}`;
+    let playsStr = "";
+    boardgame.playStore.forEach(function (item) {
+        playsStr += `<a target="_blank" href="${item.storeURL}">${item.storeName}</a> `;
+    })
+    document.querySelector('.playStore').innerHTML = `這裡玩的到：${playsStr}`;
+
+    let rulesStr = "";
+    boardgame.ruleSite.forEach(function (item) {
+        rulesStr += `<a target="_blank" href="${item.siteURL}">${item.siteName}</a> `;
+    })
+    document.querySelector('.ruleSite').innerHTML = `規則連結：${rulesStr}`;
 }

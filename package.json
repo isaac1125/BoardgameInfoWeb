@@ -1,0 +1,23 @@
+{
+  "name": "boardgameweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "all.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac1125/BoardgameInfoWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaac1125/BoardgameInfoWeb/issues"
+  },
+  "homepage": "https://github.com/isaac1125/BoardgameInfoWeb#readme"
+}

@@ -1,3 +1,6 @@
+ul{
+    list-style: none;
+}
 .wrap{
     width: 95vh;
     margin: 0 auto;
