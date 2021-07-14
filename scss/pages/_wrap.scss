@@ -9,6 +9,9 @@ li{
     flex-direction: column;
     align-items: center;
     font-size: 1.3rem;
+    @include mobile{
+        text-align: center;
+    }
 }
 .list{
     width: 12rem;
@@ -21,13 +24,22 @@ li{
     display: flex;
     justify-content: space-around;
     margin-bottom: 0.5rem;
+    @include mobile{
+        flex-direction: column;
+    }
 }
 .top__left{
     width: 40%;
+    @include mobile{
+        width: 100%;
+    }
 }
 .heading{
     font-size: 3rem;
     display: flex;
+    @include mobile{
+        flex-direction: column;
+    }
 }
 .tags{
     width: 45%;
@@ -43,6 +55,12 @@ li{
         background: white;
         border-radius: 3rem;    
     }
+    @include mobile{
+        width: 100%;
+        li{
+            width: 21%;
+        }
+    }
 }
 .midList{
     width: 100%;
@@ -53,12 +71,22 @@ li{
     font-size: 1.4rem;
     padding: 2rem;
     margin-bottom: 0.5rem;
+    @include mobile{
+        flex-direction: column;
+        text-align: left;
+    }
 }
 .leftList{
     width: 45%;
+    @include mobile{
+        width: 100%;
+    }
 }
 .rightList{
     width: 45%;
+    @include mobile{
+        width: 100%;
+    }
 }
 
 .bottom{

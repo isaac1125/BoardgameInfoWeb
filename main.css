@@ -114,6 +114,12 @@ li {
   font-size: 1.3rem;
 }
 
+@media (max-width: 76.8rem) {
+  .wrap {
+    text-align: center;
+  }
+}
+
 .list {
   width: 12rem;
   height: 3rem;
@@ -131,8 +137,23 @@ li {
   margin-bottom: 0.5rem;
 }
 
+@media (max-width: 76.8rem) {
+  .top {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
 .top__left {
   width: 40%;
+}
+
+@media (max-width: 76.8rem) {
+  .top__left {
+    width: 100%;
+  }
 }
 
 .heading {
@@ -140,6 +161,15 @@ li {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+}
+
+@media (max-width: 76.8rem) {
+  .heading {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
 }
 
 .tags {
@@ -168,6 +198,15 @@ li {
   border-radius: 3rem;
 }
 
+@media (max-width: 76.8rem) {
+  .tags {
+    width: 100%;
+  }
+  .tags li {
+    width: 21%;
+  }
+}
+
 .midList {
   width: 100%;
   display: -webkit-box;
@@ -182,12 +221,34 @@ li {
   margin-bottom: 0.5rem;
 }
 
+@media (max-width: 76.8rem) {
+  .midList {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: left;
+  }
+}
+
 .leftList {
   width: 45%;
 }
 
+@media (max-width: 76.8rem) {
+  .leftList {
+    width: 100%;
+  }
+}
+
 .rightList {
   width: 45%;
+}
+
+@media (max-width: 76.8rem) {
+  .rightList {
+    width: 100%;
+  }
 }
 
 .bottom {
