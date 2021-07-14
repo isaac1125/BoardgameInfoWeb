@@ -60,7 +60,7 @@ function print(boardgameInfo) {
 
     document.querySelector('.playerNum').innerHTML = `人數：${boardgame.minPlayers}~${boardgame.maxPlayers}`;
     document.querySelector('.price').textContent = `售價：${boardgame.price}元`;
-    document.querySelector('.weight').innerHTML = `<p>難度：${boardgame.bggWeight}/5 (參考<a target="_blank" href="${boardgame.bggSite}">BoardGameGeek</a>)</p>`;
+    document.querySelector('.weight').innerHTML = `<p>難度：${boardgame.bggWeight}/5 <br>(參考<a target="_blank" href="${boardgame.bggSite}">BoardGameGeek</a>)</p>`;
 
 
     if (boardgame.cardSleeves.cardNums == 0) {
@@ -70,19 +70,19 @@ function print(boardgameInfo) {
     else if (boardgame.cardSleeves.normalSize == boardgame.cardSleeves.fitSize) {
         sleeves.textContent = `牌套尺寸：${boardgame.cardSleeves.normalSize}(${boardgame.cardSleeves.cardNums}張)`;
     } else {
-        sleeves.textContent = `牌套尺寸：${boardgame.cardSleeves.normalSize} 貼合尺寸：${boardgame.cardSleeves.fitSize}(${boardgame.cardSleeves.cardNums}張)`;
+        sleeves.innerHTML = `<p>牌套尺寸：${boardgame.cardSleeves.normalSize}(${boardgame.cardSleeves.cardNums}張) <br>貼合尺寸：${boardgame.cardSleeves.fitSize}(${boardgame.cardSleeves.cardNums}張)</p>`;
     }
 
     document.querySelector('.publisher').textContent = `台灣代理商：${boardgame.publisherTW}`;
     document.querySelector('.publishYear').textContent = `出版年份：${boardgame.publishYear}`;
     let designersStr = "";
     boardgame.designer.forEach(function (item) {
-        designersStr += `<li>${item}</li>`;
+        designersStr += `<p>${item}</p>`;
     })
     document.querySelector('.designer').innerHTML = `作者：${designersStr}`;
     let artistsStr = "";
     boardgame.artist.forEach(function (item) {
-        artistsStr += `<li>${item}</li>`;
+        artistsStr += `<p>${item}</p>`;
     })
     document.querySelector('.artist').innerHTML = `美術：${artistsStr}`;
 
