@@ -193,6 +193,8 @@ li {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
+  margin-bottom: 0.3rem;
+  margin-right: 0.3rem;
   width: 25%;
   background: white;
   border-radius: 3rem;
