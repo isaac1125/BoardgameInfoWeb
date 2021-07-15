@@ -13,8 +13,8 @@ body {
   height: 100vh;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  background-image: -webkit-gradient(linear, left top, right top, from(#F7EA79), to(#86F779));
-  background-image: linear-gradient(to right, #F7EA79, #86F779);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#F7EA79), to(#86F779));
+  background-image: linear-gradient(to bottom, #F7EA79, #86F779);
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 

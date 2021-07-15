@@ -62,7 +62,7 @@ function print(boardgameInfo) {
     document.querySelector('.price').textContent = `售價：${boardgame.price}元`;
     document.querySelector('.age').textContent = `年齡：${boardgame.ages}+`;
     document.querySelector('.playTime').textContent = `遊玩時間：${boardgame.playingMins}分鐘`;
-    document.querySelector('.weight').innerHTML = `<p>複雜度：${boardgame.bggWeight}/5 <br>(參考<a target="_blank" href="${boardgame.bggSite}">BGG</a>)</p>`;
+    document.querySelector('.weight').innerHTML = `<p>複雜度：${boardgame.bggWeight}/5 (參考<a target="_blank" href="${boardgame.bggSite}">BGG</a>)</p>`;
 
 
     if (boardgame.cardSleeves.cardNums == 0) {
