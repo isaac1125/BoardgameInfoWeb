@@ -58,9 +58,11 @@ function print(boardgameInfo) {
     });
     document.querySelector('.tags').innerHTML = tagsStr;
 
-    document.querySelector('.playerNum').innerHTML = `人數：${boardgame.minPlayers}~${boardgame.maxPlayers}`;
+    document.querySelector('.playerNum').innerHTML = `人數：${boardgame.minPlayers}~${boardgame.maxPlayers}位玩家`;
     document.querySelector('.price').textContent = `售價：${boardgame.price}元`;
-    document.querySelector('.weight').innerHTML = `<p>難度：${boardgame.bggWeight}/5 <br>(參考<a target="_blank" href="${boardgame.bggSite}">BoardGameGeek</a>)</p>`;
+    document.querySelector('.age').textContent = `年齡：${boardgame.ages}+`;
+    document.querySelector('.playTime').textContent = `遊玩時間：${boardgame.playingMins}分鐘`;
+    document.querySelector('.weight').innerHTML = `<p>複雜度：${boardgame.bggWeight}/5 <br>(參考<a target="_blank" href="${boardgame.bggSite}">BGG</a>)</p>`;
 
 
     if (boardgame.cardSleeves.cardNums == 0) {

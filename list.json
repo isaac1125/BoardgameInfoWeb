@@ -37,7 +37,6 @@
     ],
     "list": [
         {
-            "Id": 0,
             "img": "",
             "remark": "",
             "boardgameName": [
@@ -69,9 +68,24 @@
             "price": 0,
             "playStore": [
                 {
-                    "storeName": "",
-                    "storeURL": "",
-                    "remark": ""
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
                 }
             ],
             "shopSite": [
@@ -93,7 +107,6 @@
             "linkGameId": ""
         },
         {
-            "Id": 1,
             "img": "",
             "remark": "",
             "boardgameName": [
@@ -116,7 +129,7 @@
                 "Mahmoud Arasteh Nasab"
             ],
             "publisherTW": "GoKids 玩樂小子",
-            "publishYear": "2014",
+            "publishYear": 2014,
             "ages": 10,
             "playingMins": 30,
             "minPlayers": 2,
@@ -136,8 +149,23 @@
             "playStore": [
                 {
                     "storeName": "桌遊布萊梅",
-                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
                     "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
                 }
             ],
             "shopSite": [
@@ -145,6 +173,16 @@
                     "siteName": "蝦皮(貝克街)",
                     "siteURL": "https://shopee.tw/%E3%80%90%E8%B2%9D%E5%85%8B%E8%A1%97%E6%A1%8C%E9%81%8A%E3%80%91%E7%92%80%E7%92%A8%E5%AF%B6%E7%9F%B3-Splendor-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%AD%A3%E7%89%88-%E5%8F%A6%E6%9C%89%E6%93%B4%E5%85%85%E5%8F%AF%E5%8A%A0%E8%B3%BC%E5%96%94-i.147648678.6705729963",
                     "remark": "目前缺貨"
+                },
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000504300",
+                    "remark": ""
+                },
+                {
+                    "siteName": "PChome",
+                    "siteURL": "https://24h.pchome.com.tw/prod/DEAMAI-A9009MMOR",
+                    "remark": ""
                 }
             ],
             "ruleSite": [
@@ -159,150 +197,6 @@
             "linkGameId": ""
         },
         {
-            "Id": 2,
-            "img": "",
-            "remark": "",
-            "boardgameName": [
-                {
-                    "language": "Ch",
-                    "name": "矮人礦坑"
-                },
-                {
-                    "language": "En",
-                    "name": "Saboteur"
-                }
-            ],
-            "boardgameIntro": "",
-            "designer": [
-                "Fréderic Moyersoen"
-            ],
-            "artist": [
-                "Andrea Boekhoff",
-                "Fréderic Moyersoen"
-            ],
-            "publisherTW": "新天鵝堡",
-            "publishYear": "2004",
-            "ages": 8,
-            "playingMins": 30,
-            "minPlayers": 3,
-            "maxPlayers": 10,
-            "bestPlayers": [
-                7,
-                8
-            ],
-            "tags": [
-                "歡樂",
-                "陣營",
-                "入門",
-                "吹牛",
-                "心機",
-                "板塊拼放",
-                "運氣"
-            ],
-            "cardSleeves": {
-                "cardNums": 110,
-                "fitSize": "56mm×87mm",
-                "normalSize": "56mm×87mm"
-            },
-            "price": 690,
-            "playStore": [
-                {
-                    "storeName": "桌遊布萊梅",
-                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
-                    "remark": "台北市捷運松江南京站"
-                }
-            ],
-            "shopSite": [
-                {
-                    "siteName": "PChome",
-                    "siteURL": "https://24h.pchome.com.tw/prod/DEAS7V-A80076139",
-                    "remark": ""
-                }
-            ],
-            "ruleSite": [
-                {
-                    "siteName": "冒險安迪",
-                    "siteURL": "https://andyventure.com/boardgame-saboteur/",
-                    "remark": ""
-                }
-            ],
-            "bggSite": "https://www.boardgamegeek.com/boardgame/9220/saboteur",
-            "bggWeight": 1.33,
-            "linkGameId": ""
-        },
-        {
-            "Id": 3,
-            "img": "",
-            "remark": "",
-            "boardgameName": [
-                {
-                    "language": "Ch",
-                    "name": "閃靈快手"
-                },
-                {
-                    "language": "En",
-                    "name": "Ghost Blitz"
-                }
-            ],
-            "boardgameIntro": "",
-            "designer": [
-                "Jacques Zeimet"
-            ],
-            "artist": [
-                "Doris Matthäus",
-                "Gabriela Silveira"
-            ],
-            "publisherTW": "新天鵝堡",
-            "publishYear": "2010",
-            "ages": 8,
-            "playingMins": 20,
-            "minPlayers": 2,
-            "maxPlayers": 8,
-            "bestPlayers": [
-                4,
-                5
-            ],
-            "tags": [
-                "歡樂",
-                "兒童",
-                "入門",
-                "反應",
-                "快速",
-                "道具"
-            ],
-            "cardSleeves": {
-                "cardNums": 60,
-                "fitSize": "60mm×92mm",
-                "normalSize": "60mm×92mm"
-            },
-            "price": 690,
-            "playStore": [
-                {
-                    "storeName": "桌遊布萊梅",
-                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
-                    "remark": "台北市捷運松江南京站"
-                }
-            ],
-            "shopSite": [
-                {
-                    "siteName": "新天鵝堡官網",
-                    "siteURL": "https://boardgamer.org/product/%e9%96%83%e9%9d%88%e5%bf%ab%e6%89%8b-geistesblitz%ef%bc%8d%e4%b8%ad%e6%96%87%e7%89%88/",
-                    "remark": ""
-                }
-            ],
-            "ruleSite": [
-                {
-                    "siteName": "跟著Jeff一起成長",
-                    "siteURL": "https://keepgrowup.com.tw/geistesblitz/",
-                    "remark": ""
-                }
-            ],
-            "bggSite": "https://www.boardgamegeek.com/boardgame/83195/ghost-blitz",
-            "bggWeight": 1.15,
-            "linkGameId": ""
-        },
-        {
-            "Id": 4,
             "img": "",
             "remark": "",
             "boardgameName": [
@@ -331,7 +225,7 @@
                 "Yating Sun"
             ],
             "publisherTW": "新天鵝堡",
-            "publishYear": "2012",
+            "publishYear": 2012,
             "ages": 10,
             "playingMins": 20,
             "minPlayers": 2,
@@ -354,8 +248,23 @@
             "playStore": [
                 {
                     "storeName": "桌遊布萊梅",
-                    "storeURL": "https://goo.gl/maps/J3yWRjViVB44uoZe7",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
                     "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
                 }
             ],
             "shopSite": [
@@ -363,6 +272,14 @@
                     "siteName": "樂天(龐奇)",
                     "siteURL": "https://www.rakuten.com.tw/shop/punch29/product/100468607459/?scid=rafp-&pr=9b8bc862e358ac0d&ts=1625561000081&aff_click_id=2d0cf95e-4b78-4628-a8c3-c806a8781762&cs=41600068702bf897a5ae60892a96cb9c",
                     "remark": ""
+                },
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000492059"
+                },
+                {
+                    "siteName": "PChome",
+                    "siteURL": "https://24h.pchome.com.tw/prod/DEAM6U-A9007S972"
                 }
             ],
             "ruleSite": [
@@ -377,7 +294,520 @@
             "linkGameId": ""
         },
         {
-            "Id": 5,
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "推倒堤基"
+                },
+                {
+                    "language": "En",
+                    "name": "Tiki Topple"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Keith Meyers"
+            ],
+            "artist": [
+                "Dennis Lohausen",
+                "Will Terry"
+            ],
+            "publisherTW": "Kanga Games",
+            "publishYear": 2008,
+            "ages": 10,
+            "playingMins": 20,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "心機",
+                "陷害",
+                "歡樂",
+                "美術加分"
+            ],
+            "cardSleeves": {
+                "cardNums": 55,
+                "fitSize": "65mm×90mm",
+                "normalSize": "65mm×90mm"
+            },
+            "price": 780,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "瘋桌遊商城",
+                    "siteURL": "https://mart.phantasia.tw/product/view/55",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "跟著Jeff一起成長",
+                    "siteURL": "https://keepgrowup.com.tw/mini-tiki-topple/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/34373/tiki-topple",
+            "bggWeight": 1.30,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "花磚物語"
+                },
+                {
+                    "language": "En",
+                    "name": "Azul"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Michael Kiesling"
+            ],
+            "artist": [
+                "Philippe Guérin",
+                "Chris Quilliams"
+            ],
+            "publisherTW": "2Plus",
+            "publishYear": 2017,
+            "ages": 8,
+            "playingMins": 45,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                2
+            ],
+            "tags": [
+                "家庭",
+                "成套蒐集",
+                "板塊拼放",
+                "輕度策略",
+                "美術滿分"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 1290,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "2Plus購物網",
+                    "siteURL": "https://2plus.qdm.tw/z825-azul",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/347670734",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/230802/azul",
+            "bggWeight": 1.76,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "大格鬥"
+                },
+                {
+                    "language": "En",
+                    "name": "Blokus"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Bernard Tavitian"
+            ],
+            "artist": [
+                "Alan D. Hoch"
+            ],
+            "publisherTW": "Mattel",
+            "publishYear": 2000,
+            "ages": 7,
+            "playingMins": 20,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "家庭",
+                "樂齡",
+                "兒童",
+                "心機",
+                "板塊拼放"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 1099,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N001068600",
+                    "remark": ""
+                },
+                {
+                    "siteName": "2Plus購物網",
+                    "siteURL": "https://2plus.qdm.tw/m36384-blokus"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/322661208",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/2453/blokus",
+            "bggWeight": 1.77,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "搶地盤"
+                },
+                {
+                    "language": "En",
+                    "name": "Marrakech"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Dominique Ehrhard"
+            ],
+            "artist": [
+                "Victor Boden",
+                "Marie Cardouat",
+                "Dominique Ehrhard"
+            ],
+            "publisherTW": "Gigamic",
+            "publishYear": 2007,
+            "ages": 6,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "兒童",
+                "心機",
+                "陷害",
+                "道具",
+                "板塊拼放",
+                "美術加分"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 1700,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N010641729",
+                    "remark": ""
+                },
+                {
+                    "siteName": "PChome",
+                    "siteURL": "https://24h.pchome.com.tw/prod/DEASJ9-A9005VAV5"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://phantasiatw.pixnet.net/blog/post/117431364",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/29223/marrakech/credits",
+            "bggWeight": 1.37,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "矮人礦坑"
+                },
+                {
+                    "language": "En",
+                    "name": "Saboteur"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Fréderic Moyersoen"
+            ],
+            "artist": [
+                "Andrea Boekhoff",
+                "Fréderic Moyersoen"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2004,
+            "ages": 8,
+            "playingMins": 30,
+            "minPlayers": 3,
+            "maxPlayers": 10,
+            "bestPlayers": [
+                7,
+                8
+            ],
+            "tags": [
+                "歡樂",
+                "陣營",
+                "入門",
+                "吹牛",
+                "心機",
+                "板塊拼放",
+                "運氣"
+            ],
+            "cardSleeves": {
+                "cardNums": 110,
+                "fitSize": "56mm×87mm",
+                "normalSize": "56mm×87mm"
+            },
+            "price": 690,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "PChome",
+                    "siteURL": "https://24h.pchome.com.tw/prod/DEAS7V-A80076139",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "冒險安迪",
+                    "siteURL": "https://andyventure.com/boardgame-saboteur/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/9220/saboteur",
+            "bggWeight": 1.33,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "閃靈快手"
+                },
+                {
+                    "language": "En",
+                    "name": "Ghost Blitz"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Jacques Zeimet"
+            ],
+            "artist": [
+                "Doris Matthäus",
+                "Gabriela Silveira"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2010,
+            "ages": 8,
+            "playingMins": 20,
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                4,
+                5
+            ],
+            "tags": [
+                "歡樂",
+                "兒童",
+                "入門",
+                "反應",
+                "快速",
+                "道具"
+            ],
+            "cardSleeves": {
+                "cardNums": 60,
+                "fitSize": "60mm×92mm",
+                "normalSize": "60mm×92mm"
+            },
+            "price": 690,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/%e9%96%83%e9%9d%88%e5%bf%ab%e6%89%8b-geistesblitz%ef%bc%8d%e4%b8%ad%e6%96%87%e7%89%88/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "跟著Jeff一起成長",
+                    "siteURL": "https://keepgrowup.com.tw/geistesblitz/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/83195/ghost-blitz",
+            "bggWeight": 1.15,
+            "linkGameId": ""
+        },
+        {
             "img": "",
             "remark": "",
             "boardgameName": [
@@ -425,9 +855,24 @@
             "price": 590,
             "playStore": [
                 {
-                    "storeName": "",
-                    "storeURL": "",
-                    "remark": ""
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
                 }
             ],
             "shopSite": [
@@ -449,7 +894,6 @@
             "linkGameId": ""
         },
         {
-            "Id": 6,
             "img": "",
             "remark": "",
             "boardgameName": [
@@ -495,9 +939,24 @@
             "price": 890,
             "playStore": [
                 {
-                    "storeName": "",
-                    "storeURL": "",
-                    "remark": ""
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
                 }
             ],
             "shopSite": [
@@ -519,7 +978,6 @@
             "linkGameId": ""
         },
         {
-            "Id": 7,
             "img": "",
             "remark": "",
             "boardgameName": [
@@ -566,9 +1024,24 @@
             "price": 790,
             "playStore": [
                 {
-                    "storeName": "",
-                    "storeURL": "",
-                    "remark": ""
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
                 }
             ],
             "shopSite": [
