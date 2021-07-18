@@ -642,6 +642,421 @@
             "boardgameName": [
                 {
                     "language": "Ch",
+                    "name": "爆炸貓"
+                },
+                {
+                    "language": "En",
+                    "name": "Exploding Kittens"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Matthew Inman",
+                "Elan Lee",
+                "Shane Small"
+            ],
+            "artist": [
+                "Matthew Inman",
+                "Elan Lee",
+                "Shane Small"
+            ],
+            "publisherTW": "(無)Asmodee",
+            "publishYear": 2015,
+            "ages": 7,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "bestPlayers": [
+                4,
+                5
+            ],
+            "tags": [
+                "入門",
+                "卡牌",
+                "心機",
+                "歡樂",
+                "陷害",
+                "運氣"
+            ],
+            "cardSleeves": {
+                "cardNums": 56,
+                "fitSize": "64mm×89mm",
+                "normalSize": "60mm×90mm"
+            },
+            "price": 690,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N001123288",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "厭世桌遊日記",
+                    "siteURL": "https://www.badlife.blog/%E6%B4%BE%E5%B0%8D%E6%A1%8C%E9%81%8A-%E7%88%86%E7%82%B8%E8%B2%93exploding-kittens%E9%96%8B%E7%AE%B1%E8%A6%8F%E5%89%87/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
+            "bggWeight": 1.08,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "鐵道任務"
+                },
+                {
+                    "language": "En",
+                    "name": "Ticket to Ride"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Alan R. Moon"
+            ],
+            "artist": [
+                "Cyrille Daujean",
+                "Julien Delval"
+            ],
+            "publisherTW": "(無)Asmodee",
+            "publishYear": 2004,
+            "ages": 8,
+            "playingMins": 60,
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "家庭",
+                "道具",
+                "輕度策略"
+            ],
+            "cardSleeves": {
+                "cardNums": 142,
+                "fitSize": "45mm×70mm",
+                "normalSize": "45mm×70mm"
+            },
+            "price": 1700,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N001019331",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "Fandom",
+                    "siteURL": "https://colorbeeboardgame.fandom.com/zh/wiki/Ticket_to_Ride_-_%E9%90%B5%E9%81%93%E4%BB%BB%E5%8B%99?variant=zh-tw",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://boardgamegeek.com/boardgame/9209/ticket-ride",
+            "bggWeight": 1.85,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "出包魔法師"
+                },
+                {
+                    "language": "En",
+                    "name": "Abracada...What?"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Gary Kim"
+            ],
+            "artist": [
+                "Marie Cardouat",
+                "Patrycja Ignaczak"
+            ],
+            "publisherTW": "2Plus",
+            "publishYear": 2014,
+            "ages": 7,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "心機",
+                "歡樂",
+                "陷害",
+                "計算",
+                "道具"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 1100,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "2Plus購物網",
+                    "siteURL": "https://2plus.qdm.tw/q021-abraca-what",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/335625152",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://boardgamegeek.com/boardgame/163930/abracadawhat",
+            "bggWeight": 1.67,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "女巫的佳釀"
+                },
+                {
+                    "language": "En",
+                    "name": "Witch's Brew"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Andreas Pelikan"
+            ],
+            "artist": [
+                "Julien Delval",
+                "Harald Lieske"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2008,
+            "ages": 9,
+            "playingMins": 45,
+            "minPlayers": 3,
+            "maxPlayers": 5,
+            "bestPlayers": [
+                5
+            ],
+            "tags": [
+                "吹牛",
+                "心機",
+                "陷害"
+            ],
+            "cardSleeves": {
+                "cardNums": 99,
+                "fitSize": "60mm×92mm",
+                "normalSize": "60mm×92mm"
+            },
+            "price": 990,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/swanwit/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/366792419",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://boardgamegeek.com/boardgame/34084/witchs-brew",
+            "bggWeight": 1.87,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "13道線索"
+                },
+                {
+                    "language": "En",
+                    "name": "13 Clues"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Andrés J. Voicu"
+            ],
+            "artist": [
+                "Giacomo Tappainer"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2016,
+            "ages": 8,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "燒腦",
+                "計算",
+                "解謎"
+            ],
+            "cardSleeves": {
+                "cardNums": 103,
+                "fitSize": "62mm×103mm",
+                "normalSize": "62mm×103mm"
+            },
+            "price": 990,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/13%e9%81%93%e7%b7%9a%e7%b4%a2-13-clues%ef%bc%8d%e4%b8%ad%e6%96%87%e7%89%88/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "嘟嘟嘴",
+                    "siteURL": "https://blog.duduzui.com/2018/12/13-clues-13.html",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://boardgamegeek.com/boardgame/208766/13-clues",
+            "bggWeight": 1.93,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
                     "name": "矮人礦坑"
                 },
                 {

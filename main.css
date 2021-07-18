@@ -13,8 +13,7 @@ body {
   height: 100vh;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  background-image: -webkit-gradient(linear, left top, right top, from(#F7EA79), to(#86F779));
-  background-image: linear-gradient(to right, #F7EA79, #86F779);
+  background-color: #FDF0D4;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -196,7 +195,7 @@ li {
   margin-bottom: 0.3rem;
   margin-right: 0.3rem;
   width: 25%;
-  background: white;
+  background: rgba(212, 253, 240, 0.5);
   border-radius: 3rem;
 }
 
@@ -216,7 +215,7 @@ li {
   display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  background: rgba(121, 247, 234, 0.3);
+  background: rgba(212, 225, 253, 0.5);
   border-radius: 1rem;
   font-size: 1.4rem;
   padding: 2rem;
