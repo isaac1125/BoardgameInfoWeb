@@ -977,6 +977,90 @@
             "boardgameName": [
                 {
                     "language": "Ch",
+                    "name": "Seven!"
+                },
+                {
+                    "language": "En",
+                    "name": ""
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Jarn La Rooij",
+                "Julian Stewart"
+            ],
+            "artist": [
+                "N/a"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2011,
+            "ages": 7,
+            "playingMins": 20,
+            "minPlayers": 3,
+            "maxPlayers": 5,
+            "bestPlayers": [
+                5
+            ],
+            "tags": [
+                "卡牌",
+                "心機",
+                "歡樂",
+                "計算",
+                "陷害",
+                "成套蒐集"
+            ],
+            "cardSleeves": {
+                "cardNums": 70,
+                "fitSize": "56mm×87mm",
+                "normalSize": "56mm×87mm"
+            },
+            "price": 390,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/seven%EF%BC%8D%E4%B8%AD%E6%96%87%E7%89%88/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/457757573",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/105866/seven",
+            "bggWeight": 2.33,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
                     "name": "13道線索"
                 },
                 {
@@ -1049,6 +1133,102 @@
             ],
             "bggSite": "https://boardgamegeek.com/boardgame/208766/13-clues",
             "bggWeight": 1.93,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "富饒之城"
+                },
+                {
+                    "language": "En",
+                    "name": "Citadels"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Bruno Faidutti"
+            ],
+            "artist": [
+                "Cyrille Daujean",
+                "Julien Delval",
+                "Jesper Ejsing",
+                "Bruno Faidutti",
+                "Didier Graffet",
+                " Bjarne Hansen",
+                "Darrell Hardy",
+                "Florence Magnin",
+                "Jean-Louis Mourier",
+                "Scott Nicely",
+                "Hassan Nozadian",
+                "Christian T. Petersen",
+                "Brian Schomburg",
+                "Richard Spicer"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2000,
+            "ages": 10,
+            "playingMins": 60,
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                5
+            ],
+            "tags": [
+                "心機",
+                "陷害",
+                "計算",
+                "規劃建造"
+            ],
+            "cardSleeves": {
+                "cardNums": 84,
+                "fitSize": "57mm×90mm",
+                "normalSize": "57mm×90mm",
+                "cardNums2": 33,
+                "normalSize2": "70mm*120mm"
+            },
+            "price": 990,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "勃根地",
+                    "siteURL": "http://www.bgleisure.com/product_d.php?lang=tw&tb=2&id=239&cid=56",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/460122818",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/478/citadels",
+            "bggWeight": 2.05,
             "linkGameId": ""
         },
         {
