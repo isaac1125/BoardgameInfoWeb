@@ -13,8 +13,8 @@ const sleeves = document.querySelector('.sleeves');
 
 function listRender(jsonObj) {
     let boardgame = jsonObj;
-    listStr = ' ';
-    for (i = 0; i < boardgame.list.length; i++) {
+    listStr = '<option value="請選擇桌遊" class="op">請選擇桌遊</option>';
+    for (i = 1; i < boardgame.list.length; i++) {
         let name = boardgame.list[i].boardgameName[0].name;
         listStr += `<option value="${name}" class="op">${name}</option>`
     }
