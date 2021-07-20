@@ -12,6 +12,7 @@
         "中度策略",
         "重度策略",
         "燒腦",
+        "記憶",
         "卡牌",
         "運氣",
         "美術滿分",
@@ -642,6 +643,172 @@
             "boardgameName": [
                 {
                     "language": "Ch",
+                    "name": "拉密"
+                },
+                {
+                    "language": "En",
+                    "name": "Rummikub"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Ephraim Hertzano"
+            ],
+            "artist": [
+                "Micha Hertzano",
+                "Sławek Wiechowski"
+            ],
+            "publisherTW": "(無)Kod Kod",
+            "publishYear": 1977,
+            "ages": 8,
+            "playingMins": 60,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "家庭",
+                "燒腦",
+                "計算"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 780,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "金石堂",
+                    "siteURL": "https://www.kingstone.com.tw/basic/3060000025258?zone=toy&lid=toy_class3_9854",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "桌遊熱",
+                    "siteURL": "https://boardgamehot.com/rummikub-rule/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/811/rummikub",
+            "bggWeight": 1.74,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "快手疊杯"
+                },
+                {
+                    "language": "En",
+                    "name": "Speed Cups"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Haim Shafir"
+            ],
+            "artist": [
+                "Haim Shafir",
+                "Yaniv Shimoni",
+                "Barbara Spelger"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2013,
+            "ages": 6,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "兒童",
+                "反應",
+                "家庭",
+                "歡樂",
+                "道具"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 690,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/swanspc/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/377779871",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/146149/speed-cups",
+            "bggWeight": 1.05,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
                     "name": "爆炸貓"
                 },
                 {
@@ -1133,6 +1300,176 @@
             ],
             "bggSite": "https://boardgamegeek.com/boardgame/208766/13-clues",
             "bggWeight": 1.93,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "大頭娃娃"
+                },
+                {
+                    "language": "En",
+                    "name": "Toddles-Bobbles"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Alena Lebedeva"
+            ],
+            "artist": [
+                "Nadegda Fedotova"
+            ],
+            "publisherTW": "機本玩意OBOI",
+            "publishYear": 2010,
+            "ages": 4,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "bestPlayers": [
+                5
+            ],
+            "tags": [
+                "兒童",
+                "卡牌",
+                "反應",
+                "歡樂",
+                "記憶",
+                "字詞聯想"
+            ],
+            "cardSleeves": {
+                "cardNums": 60,
+                "fitSize": "65mm×90mm",
+                "normalSize": "65mm×90mm"
+            },
+            "price": 400,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "卡牌屋",
+                    "siteURL": "https://bghut.com/goods-7400-%E5%A4%A7%E9%A0%AD%E5%A8%83%E5%A8%83.html",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/349393399",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/191895/toddles-bobbles",
+            "bggWeight": 1.00,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "哆寶"
+                },
+                {
+                    "language": "En",
+                    "name": "Spot it!"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Denis Blanchot",
+                "Jacques Cottereau",
+                "Guillaume Gille-Naves",
+                "Igor Polouchine"
+            ],
+            "artist": [
+                "Denis Blanchot",
+                "Ingrid Vang Nyman, Peyo",
+                "Igor Polouchine"
+            ],
+            "publisherTW": "GoKids 玩樂小子",
+            "publishYear": 2009,
+            "ages": 7,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                4,
+                5
+            ],
+            "tags": [
+                "兒童",
+                "反應",
+                "歡樂",
+                "快速"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 550,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N001083587",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "漫果子桌遊",
+                    "siteURL": "https://www.mgz.com.tw/pages/10039",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/63268/spot-it",
+            "bggWeight": 1.03,
             "linkGameId": ""
         },
         {
