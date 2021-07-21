@@ -173,7 +173,7 @@
                 {
                     "siteName": "蝦皮(貝克街)",
                     "siteURL": "https://shopee.tw/%E3%80%90%E8%B2%9D%E5%85%8B%E8%A1%97%E6%A1%8C%E9%81%8A%E3%80%91%E7%92%80%E7%92%A8%E5%AF%B6%E7%9F%B3-Splendor-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%AD%A3%E7%89%88-%E5%8F%A6%E6%9C%89%E6%93%B4%E5%85%85%E5%8F%AF%E5%8A%A0%E8%B3%BC%E5%96%94-i.147648678.6705729963",
-                    "remark": "目前缺貨"
+                    "remark": ""
                 },
                 {
                     "siteName": "博客來",
@@ -801,6 +801,347 @@
             ],
             "bggSite": "https://www.boardgamegeek.com/boardgame/146149/speed-cups",
             "bggWeight": 1.05,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "卡坦島"
+                },
+                {
+                    "language": "En",
+                    "name": "Catan"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Klaus Teuber"
+            ],
+            "artist": [
+                "Volkan Baga",
+                "Tanja Donner",
+                "Pete Fenlon",
+                "Jason Hawkins",
+                "Michaela Kienle",
+                "Harald Lieske",
+                "Michael Menzel",
+                "Marion Pott",
+                "Matt Schwabel",
+                "Franz Vohwinkel",
+                "Stephen Graham Walsh"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 1995,
+            "ages": 10,
+            "playingMins": 120,
+            "minPlayers": 3,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "家庭",
+                "骰子",
+                "輕度策略",
+                "規劃建造"
+            ],
+            "cardSleeves": {
+                "cardNums": 126,
+                "fitSize": "45mm×70mm",
+                "normalSize": "45mm×70mm"
+            },
+            "price": 1590,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000192575",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "冒險安迪",
+                    "siteURL": "https://andyventure.com/boardgame-catan/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/13/catan",
+            "bggWeight": 2.32,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "瘟疫危機"
+                },
+                {
+                    "language": "En",
+                    "name": "Pandemic"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Matt Leacock"
+            ],
+            "artist": [
+                "Josh Cappel",
+                "Christian Hanisch",
+                "Régis Moulun",
+                "Chris Quilliams",
+                "Tom Thiel"
+            ],
+            "publisherTW": "(無)Z-Man",
+            "publishYear": 2008,
+            "ages": 8,
+            "playingMins": 45,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "合作",
+                "燒腦"
+            ],
+            "cardSleeves": {
+                "cardNums": 118,
+                "fitSize": "65mm×90mm",
+                "normalSize": "65mm×90mm"
+            },
+            "price": 1250,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "蝦皮(陽光)",
+                    "siteURL": "https://www.ruten.com.tw/item/show?21535514081881",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/340271973",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/30549/pandemic",
+            "bggWeight": 2.41,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "骰子街"
+                },
+                {
+                    "language": "En",
+                    "name": "Machi Koro"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Masao Suganuma"
+            ],
+            "artist": [
+                "Noboru Hotta",
+                "Ian Parovel",
+                "Mirko Suzuki"
+            ],
+            "publisherTW": "GoKids 玩樂小子",
+            "publishYear": 2012,
+            "ages": 10,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "骰子",
+                "家庭",
+                "輕度策略",
+                "規劃建造"
+            ],
+            "cardSleeves": {
+                "cardNums": 108,
+                "fitSize": "56mm×87mm",
+                "normalSize": "56mm×87mm"
+            },
+            "price": 1450,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N001012997",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/456003506",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/143884/machi-koro",
+            "bggWeight": 1.53,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "三千世界鴉殺盡"
+                },
+                {
+                    "language": "En",
+                    "name": "Crows Overkill"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Roy Nambu"
+            ],
+            "artist": [
+                "Amayagi-do"
+            ],
+            "publisherTW": "桌遊愛樂事",
+            "publishYear": 2014,
+            "ages": 10,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 4,
+            "bestPlayers": [
+                4
+            ],
+            "tags": [
+                "入門",
+                "卡牌",
+                "快速",
+                "陷害",
+                "成套蒐集"
+            ],
+            "cardSleeves": {
+                "cardNums": 81,
+                "fitSize": "64mm×89mm",
+                "normalSize": "65mm×90mm"
+            },
+            "price": 490,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "桌遊愛樂事",
+                    "siteURL": "https://tw.emperors4.com/game/crowsoverkill",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/343376419",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/175023/crows-overkill",
+            "bggWeight": 1.13,
             "linkGameId": ""
         },
         {
