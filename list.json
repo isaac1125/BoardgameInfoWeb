@@ -1,5 +1,6 @@
 {
     "tags": [
+        "雙人",
         "入門",
         "家庭",
         "陷害",
@@ -8,6 +9,8 @@
         "吹牛",
         "陣營",
         "派對",
+        "想像力",
+        "喇叭嘴",
         "輕度策略",
         "中度策略",
         "重度策略",
@@ -105,6 +108,177 @@
             ],
             "bggSite": "",
             "bggWeight": 0,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "花見小路"
+                },
+                {
+                    "language": "En",
+                    "name": "Hanamikoji"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Kota Nakayama (中山 宏太)"
+            ],
+            "artist": [
+                "Maisherly",
+                "Mashiro Misaki"
+            ],
+            "publisherTW": "桌遊愛樂事",
+            "publishYear": 2013,
+            "ages": 10,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 2,
+            "bestPlayers": [
+                2
+            ],
+            "tags": [
+                "卡牌",
+                "計算",
+                "雙人",
+                "成套蒐集"
+            ],
+            "cardSleeves": {
+                "cardNums": 21,
+                "fitSize": "65mm×90mm",
+                "normalSize": "65mm×90mm",
+                "cardNums2": 7,
+                "normalSize2": "80mm×122mm"
+            },
+            "price": 390,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000703854",
+                    "remark": ""
+                },
+                {
+                    "siteName": "金石堂",
+                    "siteURL": "https://www.kingstone.com.tw/basic/3060000018998/"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/445660541",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/158600/hanamikoji",
+            "bggWeight": 1.71,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "拼布藝術"
+                },
+                {
+                    "language": "En",
+                    "name": "Patchwork"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Uwe Rosenberg"
+            ],
+            "artist": [
+                "Klemens Franz",
+                "Rex Lee",
+                "Gru Tsow"
+            ],
+            "publisherTW": "GoKids 玩樂小子",
+            "publishYear": 2014,
+            "ages": 8,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 2,
+            "bestPlayers": [
+                2
+            ],
+            "tags": [
+                "雙人",
+                "抽象",
+                "想像力",
+                "板塊拼放"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 880,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "樂天(陽光)",
+                    "siteURL": "https://www.ruten.com.tw/item/show?21602667573746",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/444223700",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/163412/patchwork",
+            "bggWeight": 1.62,
             "linkGameId": ""
         },
         {
@@ -1569,6 +1743,88 @@
             "boardgameName": [
                 {
                     "language": "Ch",
+                    "name": "超級犀牛"
+                },
+                {
+                    "language": "En",
+                    "name": "Rhino Hero"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Scott Frisco",
+                "Steven Strumpf"
+            ],
+            "artist": [
+                "Thies Schwarz"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2011,
+            "ages": 5,
+            "playingMins": 15,
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "bestPlayers": [
+                3
+            ],
+            "tags": [
+                "兒童",
+                "平衡",
+                "歡樂",
+                "陷害"
+            ],
+            "cardSleeves": {
+                "cardNums": 0,
+                "fitSize": "0mm×0mm",
+                "normalSize": "0mm×0mm"
+            },
+            "price": 790,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000450323",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "小韋的桌遊園",
+                    "siteURL": "https://tcc440s.pixnet.net/blog/post/71812181",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/91514/rhino-hero",
+            "bggWeight": 1.03,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
                     "name": "13道線索"
                 },
                 {
@@ -1724,6 +1980,187 @@
             ],
             "bggSite": "https://www.boardgamegeek.com/boardgame/191895/toddles-bobbles",
             "bggWeight": 1.00,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "從前從前"
+                },
+                {
+                    "language": "En",
+                    "name": "Once Upon a Time: The Storytelling Card Game"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Richard Lambert",
+                "Andrew Rilstone",
+                "James Wallis"
+            ],
+            "artist": [
+                "Richard Lambert",
+                "Florence Magnin",
+                "Sophie Mounier",
+                "Omar Rayyan",
+                "Andrew Rilstone",
+                "Franz Vohwinkel",
+                "James Wallis"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 1993,
+            "ages": 8,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "bestPlayers": [
+                5,
+                6
+            ],
+            "tags": [
+                "入門",
+                "卡牌",
+                "家庭",
+                "想像力",
+                "喇叭嘴"
+            ],
+            "cardSleeves": {
+                "cardNums": 165,
+                "fitSize": "56mm×87mm",
+                "normalSize": "56mm×87mm"
+            },
+            "price": 890,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/%E5%BE%9E%E5%89%8D%E5%BE%9E%E5%89%8D-once-upon-a-time%EF%BC%8D%E4%B8%AD%E6%96%87%E7%89%88/",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "Pionkerhow",
+                    "siteURL": "https://harry112930.pixnet.net/blog/post/348180169",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/1234/once-upon-time-storytelling-card-game",
+            "bggWeight": 1.38,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "德國蟑螂"
+                },
+                {
+                    "language": "En",
+                    "name": "Cockroach Poker"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Jacques Zeimet"
+            ],
+            "artist": [
+                "Rolf Vogt"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2004,
+            "ages": 8,
+            "playingMins": 20,
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "bestPlayers": [
+                5
+            ],
+            "tags": [
+                "入門",
+                "卡牌",
+                "吹牛",
+                "心機",
+                "陷害"
+            ],
+            "cardSleeves": {
+                "cardNums": 64,
+                "fitSize": "60mm×92mm",
+                "normalSize": "60mm×92mm"
+            },
+            "price": 490,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000278946",
+                    "remark": ""
+                },
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://www.books.com.tw/products/N000278946"
+                },
+                {
+                    "siteName": "玩具反斗城",
+                    "siteURL": "https://www.toysrus.com.tw/zh-tw/swan-panasia-kakerlaken-poker-boardgame-1114948.html"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "桌遊熱",
+                    "siteURL": "https://boardgamehot.com/cockroach-poker/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/11971/cockroach-poker",
+            "bggWeight": 1.12,
             "linkGameId": ""
         },
         {
