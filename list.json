@@ -38,7 +38,9 @@
         "畫畫",
         "規劃建造",
         "平衡",
-        "分隊競技"
+        "分隊競技",
+        "默契",
+        "推理"
     ],
     "list": [
         {
@@ -2339,6 +2341,90 @@
             "boardgameName": [
                 {
                     "language": "Ch",
+                    "name": "砰！"
+                },
+                {
+                    "language": "En",
+                    "name": "BANG!"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Emiliano Sciarra"
+            ],
+            "artist": [
+                "Alessandro Pierangelini"
+            ],
+            "publisherTW": "新天鵝堡",
+            "publishYear": 2004,
+            "ages": 10,
+            "playingMins": 40,
+            "minPlayers": 4,
+            "maxPlayers": 7,
+            "bestPlayers": [
+                7
+            ],
+            "tags": [
+                "陣營",
+                "心機",
+                "卡牌"
+            ],
+            "cardSleeves": {
+                "cardNums": 110,
+                "fitSize": "56mm×87mm",
+                "normalSize": "56mm×87mm"
+            },
+            "price": 830,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "新天鵝堡官網",
+                    "siteURL": "https://boardgamer.org/product/%E7%A0%B0%EF%BC%81-bang%EF%BC%8D%E4%B8%AD%E6%96%87%E7%89%88/",
+                    "remark": ""
+                },
+                {
+                    "siteName": "卡牌屋",
+                    "siteURL": "http://bghut.com/goods-2464-%E7%A0%B0%EF%BC%81+BANG%21%E3%80%90%E4%B8%AD%E6%96%87%E7%89%88%E3%80%91.html"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "桌遊熱",
+                    "siteURL": "https://boardgamehot.com/bang-rule/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/3955/bang",
+            "bggWeight": 1.63,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
                     "name": "哆寶"
                 },
                 {
@@ -3045,6 +3131,264 @@
             "boardgameName": [
                 {
                     "language": "Ch",
+                    "name": "天生絕配"
+                },
+                {
+                    "language": "En",
+                    "name": "Compatibility"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Craig Browne"
+            ],
+            "artist": [
+                "Stéphane Gantiez",
+                "Stivo",
+                "Alexandra Violet"
+            ],
+            "publisherTW": "2Plus",
+            "publishYear": 1996,
+            "ages": 12,
+            "playingMins": 30,
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                8
+            ],
+            "tags": [
+                "入門",
+                "默契",
+                "想像力",
+                "分隊競技"
+            ],
+            "cardSleeves": {
+                "cardNums": 345,
+                "fitSize": "60mm×92mm",
+                "normalSize": "60mm×92mm"
+            },
+            "price": 990,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "2Plus購物網",
+                    "siteURL": "https://2plus.qdm.tw/q056-compatibility",
+                    "remark": ""
+                },
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N001174424"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "小柴",
+                    "siteURL": "http://boardgame-record.blogspot.com/2015/05/compatibility.html",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/2604/compatibility",
+            "bggWeight": 1.12,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "猜心俱樂部"
+                },
+                {
+                    "language": "En",
+                    "name": "Guess Club"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Sky Huang"
+            ],
+            "artist": [
+                "Cinyee Chiu",
+                "Missquai"
+            ],
+            "publisherTW": "栢龍",
+            "publishYear": 2017,
+            "ages": 10,
+            "playingMins": 30,
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                4,
+                5,
+                6
+            ],
+            "tags": [
+                "默契",
+                "歡樂",
+                "派對",
+                "字詞聯想"
+            ],
+            "cardSleeves": {
+                "cardNums": 81,
+                "fitSize": "57mm×90mm",
+                "normalSize": "57mm×90mm"
+            },
+            "price": 1000,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "卡牌屋",
+                    "siteURL": "https://bghut.com/goods-6805-%E7%8C%9C%E5%BF%83%E4%BF%B1%E6%A8%82%E9%83%A8%E4%BA%8C%E7%89%88+%28Guess+Club%29.html",
+                    "remark": ""
+                },
+                {
+                    "siteName": "露天(陽光)",
+                    "siteURL": "https://www.ruten.com.tw/item/show?21804637515125"
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "高雄龐奇",
+                    "siteURL": "https://punchboardgame.pixnet.net/blog/post/468375023",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/234452/guess-club",
+            "bggWeight": 2.00,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "眨眨眼"
+                },
+                {
+                    "language": "En",
+                    "name": "WINK"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Friedhelm Krahwinkel"
+            ],
+            "artist": [
+                "Pierre-Olivier Capéran",
+                "Stéphane Escapa",
+                "Thomas Marutschke"
+            ],
+            "publisherTW": "GoKids 玩樂小子",
+            "publishYear": 1994,
+            "ages": 8,
+            "playingMins": 20,
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "bestPlayers": [
+                6
+            ],
+            "tags": [
+                "派對",
+                "歡樂",
+                "心機",
+                "分隊競技"
+            ],
+            "cardSleeves": {
+                "cardNums": 112,
+                "fitSize": "70mm×70mm",
+                "normalSize": "70mm×70mm"
+            },
+            "price": 700,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "博客來",
+                    "siteURL": "https://www.books.com.tw/products/N000654639",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "冒險安迪",
+                    "siteURL": "https://andyventure.com/boardgame-wink/",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/13507/wink",
+            "bggWeight": 1.13,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
                     "name": "風聲 黑名單"
                 },
                 {
@@ -3468,6 +3812,94 @@
             ],
             "bggSite": "https://www.boardgamegeek.com/boardgame/3818/alias",
             "bggWeight": 1.26,
+            "linkGameId": ""
+        },
+        {
+            "img": "",
+            "remark": "",
+            "boardgameName": [
+                {
+                    "language": "Ch",
+                    "name": "CS files 犯罪現場"
+                },
+                {
+                    "language": "En",
+                    "name": "Deception: Murder in Hong Kong"
+                }
+            ],
+            "boardgameIntro": "",
+            "designer": [
+                "Tobey Ho"
+            ],
+            "artist": [
+                "Marcin Adamski",
+                "Ben Carre",
+                "Tommy Ng",
+                "Ari Wong"
+            ],
+            "publisherTW": "無",
+            "publishYear": 2014,
+            "ages": 14,
+            "playingMins": 20,
+            "minPlayers": 4,
+            "maxPlayers": 12,
+            "bestPlayers": [
+                6,
+                7,
+                8
+            ],
+            "tags": [
+                "陣營",
+                "燒腦",
+                "心機",
+                "推理",
+                "喇叭嘴",
+                "字詞聯想"
+            ],
+            "cardSleeves": {
+                "cardNums": 14,
+                "fitSize": "60mm×92mm",
+                "normalSize": "60mm×92mm"
+            },
+            "price": 1200,
+            "playStore": [
+                {
+                    "storeName": "桌遊布萊梅",
+                    "storeURL": "https://www.facebook.com/boardgamebremen",
+                    "remark": "台北市捷運松江南京站"
+                },
+                {
+                    "storeName": "桌遊夏洛克",
+                    "storeURL": "https://www.facebook.com/SherlockBoardGamestore",
+                    "remark": "台北市捷運忠孝敦化站、信義安和站"
+                },
+                {
+                    "storeName": "貝克街(民權店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetBGstore",
+                    "remark": "台北市捷運民權西路站"
+                },
+                {
+                    "storeName": "貝克街(饒河店)",
+                    "storeURL": "https://www.facebook.com/BakerStreetRaoheBGstore",
+                    "remark": "台北市捷運松山站"
+                }
+            ],
+            "shopSite": [
+                {
+                    "siteName": "露天(陽光)",
+                    "siteURL": "https://www.ruten.com.tw/item/show?21408153431743",
+                    "remark": ""
+                }
+            ],
+            "ruleSite": [
+                {
+                    "siteName": "瘋桌遊(台中店)",
+                    "siteURL": "https://gameurlife.pixnet.net/blog/post/337073897",
+                    "remark": ""
+                }
+            ],
+            "bggSite": "https://www.boardgamegeek.com/boardgame/156129/deception-murder-hong-kong",
+            "bggWeight": 1.59,
             "linkGameId": ""
         }
     ]
